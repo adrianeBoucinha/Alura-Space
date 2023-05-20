@@ -3,6 +3,7 @@
 Iniciando REACT JS! 😍
 
 🚀 Criando uma página inicial estática de galeria de imagens incríveis do universo observavél! 
+
 ⚙️ Com a possibilidade de exibir as imagens por tags; 
 
 
@@ -10,11 +11,13 @@ Iniciando REACT JS! 😍
 | -------------  | --- |
 | :sparkles: Nome        | **ALURA SPACE**
 | :label: Tecnologias | SASS, JAVASCRIPT, REACT JS
-| :rocket: URL         | https://adrianeboucinha.github.io/7daysofcode-filmes-populares/
+| :rocket: URL         | https://alura-space-adrianeboucinha.vercel.app/#vitrinedev
 | :fire: CURSO     | https://cursos.alura.com.br/formacao-react-javascript
 
+
+
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![https://adrianeboucinha.github.io/7daysofcode-filmes-populares/#vitrinedev](https://adrianeboucinha.github.io/7daysofcode-filmes-populares/#vitrinedev)
+
 
 
 
